@@ -5,6 +5,7 @@
 ,xorg,
 ,neofetch,
 ,ttf-hack,"provides the sans and serif fonts for LARBS."
+A,ttf-google-sans,"font for dwm"
 A,lf-git,"is an extensive terminal file manager that everyone likes."
 ,bc,"is used for a dropdown calculator."
 ,xcompmgr,"is for transparency and removing screen-tearing."
