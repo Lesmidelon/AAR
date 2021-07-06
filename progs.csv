@@ -3,10 +3,24 @@
 ,xorg-xwininfo,"allows querying information about windows."
 ,xorg-xinit,"starts the graphical server."
 ,xorg,
+,mesa,
+,nvidia,
+,nvidia-libgl,
+,nvidia-settings,
+A,epson-inkjet-printer-201401w,"printer package driver for epson l365 printers"
+A,qbittorrent,"torrent manager"
 ,neofetch,
+A,visual-studio-code-bin,"The popular text editor for programing" 
+A,gotop,"A cli tool for monitoring the system"
+A,zoom,
+,virtualbox-host-modules-arch,"complementary module for virtualbox"
+,nnn,"A cli fast file manager"
+,libreoffice-fresh,
+,libreoffice-fresh-pt-br,
 ,ttf-hack,"provides the sans and serif fonts for LARBS."
 A,ttf-google-sans,"font for dwm"
-A,lf-git,"is an extensive terminal file manager that everyone likes."
+,gimp,
+A,dracula-gtk-theme,"GTK theme for the system"
 ,bc,"is used for a dropdown calculator."
 ,xcompmgr,"is for transparency and removing screen-tearing."
 ,xorg-xprop,"is a tool for detecting window properties."
@@ -18,7 +32,6 @@ A,lf-git,"is an extensive terminal file manager that everyone likes."
 ,xwallpaper,"sets the wallpaper."
 ,ffmpeg,"can record and splice video and audio on the command line."
 ,gnome-keyring,"serves as the system keyring."
-A,gtk-theme-arc-gruvbox-git,"gives the dark GTK theme used in LARBS."
 ,neovim,"a tidier vim with some useful features"
 ,mpd,"is a lightweight music daemon."
 ,mpc,"is a terminal interface for mpd."
@@ -38,7 +51,6 @@ A,sc-im,"is an Excel-like terminal spreadsheet manager."
 ,unclutter,"hides an inactive mouse."
 ,unrar,"extracts rar's."
 ,unzip,"unzips zips."
-,lynx,"is a terminal browser."
 ,xcape,"gives the special escape/super mappings of LARBS."
 ,xclip,"allows for copying and pasting from the command line."
 ,xdotool,"provides window action utilities on the command line."
