@@ -7,8 +7,11 @@
 ,nvidia,
 ,nvidia-libgl,
 ,nvidia-settings,
-A,epson-inkjet-printer-201401w,"printer package driver for epson l365 printers"
-A,qbittorrent,"torrent manager"
+,texlive-most,"The texlive-most group contains most TeX Live packages"
+,texlive-lang,"The texlive-lang group contains packages providing character sets and features for languages with non-Latin characters."
+,texlive-bibtexextra,"texlive-bibtexextra contains additional BibTeX and BibLaTeX styles and bibliography databases."
+A,epson-inkjet-printer-201401w,"Printer package driver for epson l365 printers"
+A,qbittorrent,"A lightweight torrent manager"
 ,neofetch,
 A,visual-studio-code-bin,"The popular text editor for programing" 
 A,gotop,"A cli tool for monitoring the system"
@@ -29,7 +32,7 @@ A,dracula-gtk-theme,"GTK theme for the system"
 ,dunst,"is a suckless notification system."
 ,exfat-utils,"allows management of FAT drives."
 ,sxiv,"is a minimalist image viewer."
-,xwallpaper,"sets the wallpaper."
+,spotify,"A proprietary music streaming service"
 ,ffmpeg,"can record and splice video and audio on the command line."
 ,gnome-keyring,"serves as the system keyring."
 ,neovim,"a tidier vim with some useful features"
