@@ -4,10 +4,16 @@
 ,mesa,"An open-source implementation of the OpenGL specification"
 ,nvidia,"NVIDIA drivers for linux"
 ,python-pip,"The PyPA recommended tool for installing Python packages"
+,bmon,"Portable bandwidth monitor and rate estimator"
+,calcurse,"Calcurse is a calendar and scheduling application for the command line."
+A,pcsx2-git,"A Sony PlayStation 2 emulator"
+,bluez,"Daemons for the bluetooth protocol stack"
+,bluez-utils,"Development and debugging utilities for the bluetooth protocol stack"
+,blueman,"GTK+ Bluetooth Manager"
 #,vscodium-bin,"Binary releases of VS Code without MS branding/telemetry/licensing."
 #Requirements in order to make image previewer work in lf github.com/
 ,ueberzug,"Command line util which allows to display images in combination with X11"
- Besides lf and Überzug you will need to install the following packages:
+#Besides lf and Überzug you will need to install the following packages:
 ,openssh,"Premier connectivity tool for remote login with the SSH protocol"
 ,ffmpegthumbnailer,"Lightweight video thumbnailer that can be used by file managers."
 ,imagemagick,"An image viewing/manipulation program"
